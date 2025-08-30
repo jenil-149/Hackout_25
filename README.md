@@ -4,7 +4,7 @@ A full-stack MERN application to visualize and optimize **green hydrogen infrast
 Built with **React + Vite, TailwindCSS, React-Leaflet** on the frontend and **Node.js + Express + MongoDB** on the backend.
 
 ---
-![Image](project4\image1.png)
+![Image](./image1.png)
 
 
 ## 🚀 Tech Stack
